@@ -1,9 +1,9 @@
-
 {
   "name": "یادآور من - مدیریت هوشمند",
   "short_name": "یادآور",
   "description": "مدیریت آفلاین عادت‌ها، یادداشت‌ها و امور مالی",
-  "start_url": ".",
+  "start_url": "/Yadavar/",
+  "scope": "/Yadavar/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#1e40af",
